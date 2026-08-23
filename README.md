@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me
+🔭 **I’m currently working on** — Building full-stack web applications with Python, Django, React & MySQL 💻
+
+👯 **I’m looking to collaborate on** — Python/Django, React, and open-source projects 🤝
+
+🤝 **I’m looking for help with** — Improving my full-stack development skills and writing better, scalable code
+
+🌱 **I’m currently learning** — Advanced Django, React, JavaScript, APIs & Cyber Security 🔐
+
+💬 **Ask me about** — Python, Django, React, JavaScript, MySQL, or Cyber Security
+
+⚡ **Fun fact** — I’m a BCA student who loves turning ideas into working applications! 🚀
+
 
 
 ## 🌐 Socials:
