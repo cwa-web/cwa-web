@@ -1,15 +1,9 @@
 # 💫 About Me
-🔭 **I’m currently working on** — Building full-stack web applications with Python, Django, React & MySQL 💻
-
-👯 **I’m looking to collaborate on** — Python/Django, React, and open-source projects 🤝
-
-🤝 **I’m looking for help with** — Improving my full-stack development skills and writing better, scalable code
-
-🌱 **I’m currently learning** — Advanced Django, React, JavaScript, APIs & Cyber Security 🔐
-
-💬 **Ask me about** — Python, Django, React, JavaScript, MySQL, or Cyber Security
-
-⚡ **Fun fact** — I’m a BCA student who loves turning ideas into working applications! 🚀
+🔭 **Working on:** Python Full Stack projects 💻  
+👯 **Collaborating on:** Django, React & Open Source 🤝  
+🌱 **Learning:** Advanced Django, React & Cyber Security 🔐  
+💬 **Ask me about:** Python, Django, React & MySQL  
+⚡ **Fun fact:** Turning ideas into real-world applications 🚀
 
 
 
